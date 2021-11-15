@@ -12,15 +12,17 @@ The user can search for specific criteria in 3 easy steps.
 
 1. To open the webpage, the user will right click in the HTML file to open with an internet browser. 
 
-index
+![index image](https://user-images.githubusercontent.com/88689043/141715260-49ee9f88-f356-44ca-b833-8c7ebd7252bd.PNG)
+
 
 2. The webpage will load with all of the data, by default.
  
- webpage
+![webpage](https://user-images.githubusercontent.com/88689043/141715278-4680d76b-4b0e-4b73-b081-4727793c4b09.PNG)
+
 
 3. The filters are located in the lower left hand corner. They can be used by typing in the applicable search criteria and pressing enter on the keyboard. 
   
-Filters
+![filters used](https://user-images.githubusercontent.com/88689043/141715241-269c850b-9eb3-4368-94ef-293fc2d1e4fd.PNG)
 
 
 ## Summary and Drawbacks
